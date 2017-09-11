@@ -1,0 +1,5 @@
+CHANGE TRACKING BRANCH
+git branch branch_name --set-upstream-to your_new_remote/branch_name
+
+See all tracking branches
+git branch -vv
